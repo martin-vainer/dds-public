@@ -1,8 +1,6 @@
 # Apuntes DDS - UTN FRBA - 1C 2026
 
-Versión pública y curada de apuntes de **Desarrollo de Software**.
-
-Este repositorio está pensado para estudiar, repasar y generar material derivado sin arrastrar archivos personales, configuraciones locales, PDFs oficiales, borradores de trabajo ni material sensible.
+Apuntes de **Desarrollo de Software** en Markdown.
 
 ## Por dónde empezar
 
@@ -25,26 +23,15 @@ study/
   glosario.md                      # glosario vivo
 ```
 
-## Qué no incluye
-
-Por limpieza y seguridad, esta versión pública no incluye:
-
-- configuraciones locales de agentes o editores;
-- documentos Office con metadata personal;
-- zips, caches temporales o repos clonados;
-- material de TP grupal;
-- PDFs oficiales, exámenes o resoluciones de cátedra.
-
-
 ## Cómo colaborar
 
-El branch `main` está protegido para mantener estable la versión pública de los apuntes.
+El branch `main` está protegido para mantener estable el apunte.
 
 Si encontrás una mejora, error o tema para discutir:
 
 - abrí un **issue** para proponer cambios, reportar dudas o marcar inconsistencias;
 - abrí un **pull request** si ya tenés una corrección concreta;
-- evitá subir PDFs oficiales, resoluciones de examen, documentos personales o material con derechos de cátedra.
+- evitá subir material que no sea propio o que no corresponda compartir.
 
 La idea es que el repo sea colaborativo, pero con trazabilidad: cada cambio importante debería tener contexto y revisión.
 

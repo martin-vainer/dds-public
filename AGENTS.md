@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Guía para agentes o asistentes que consuman esta versión pública de apuntes DDS.
+Guía para agentes o asistentes que consuman estos apuntes DDS.
 
 ## Objetivo
 
@@ -22,7 +22,4 @@ Ayudar a estudiar Desarrollo de Software usando el apunte principal como fuente 
 - Si una clase figura como `draft`, `parcial` o `pendiente`, aclararlo al responder.
 - Mantener español rioplatense natural, tono pedagógico y directo.
 - Para estudiar, explicar problema, solución, ejemplo y gotcha; no hacer resúmenes planos.
-
-## Material no incluido
-
-Esta versión pública no contiene PDFs oficiales, borradores privados, repos temporales ni documentos personales. Si el apunte referencia una fuente externa no presente, tratarla como referencia histórica/contextual, no como archivo disponible.
+- Si el apunte referencia una fuente externa no presente, tratarla como referencia histórica/contextual, no como archivo disponible.
